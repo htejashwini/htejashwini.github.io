@@ -44,7 +44,7 @@ section {
 }
 
 #hero .profile-img {
-    width: 300px;
+    width: 200px;
     border-radius: 50%;
 }
 
@@ -74,11 +74,11 @@ header a {
 }
 
 #about {
-    background-image: url('Word.png');
+    background-image: url('Blue.png');
 }
 
 #contact {
-    background-image: url('Blue.png');
+    background-image: url('Word.png');
 }
 
 
